@@ -1,0 +1,14 @@
+{
+  "name": "simple-api-server",
+  "version": "1.0.0",
+  "description": "Basic REST API for storing notes",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Shanae Corporal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
